@@ -4,4 +4,5 @@ E com esse perfil busco compartilhar um pouco da minha evolução com algums peq
 É um pequeno projeto criado como forma de praticar HTML, CSS, e Javascript.
 
 O projeto consiste em uma simples calculadora de IMC (Indice de Massa Corporal), onde pratiquei na produção do projeto, HTML, CSS e principalmente Javascript.
+Se houver como deixar um comentário de como melhorar o código agradeceria.
 Obrigado por ler!
